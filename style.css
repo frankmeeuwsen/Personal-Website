@@ -58,6 +58,10 @@ p {
 	font-size: 1.1em;
 }
 
+a {
+  color: #FFF;
+}
+
 /* Styling for social icons */
 i.fa {
 	padding: 0 8px;
